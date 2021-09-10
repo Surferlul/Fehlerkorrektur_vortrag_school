@@ -1,2 +1,2 @@
-# Fehlerkorrektur_vortrag_school
+# Fehlerkorrekturverfahren
 Vortrag zu Fehlerkorrektur codes für den info unterricht
