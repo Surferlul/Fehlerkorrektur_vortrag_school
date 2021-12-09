@@ -1,7 +1,7 @@
-from Hamming8 import encode_hamming, decode_hamming
+from Hamming import encode_hamming, decode_hamming
 
 while True:
-    action = input("ecnode - e, decode - d, quit - q: ")
+    action = input("encode - e, decode - d, quit - q: ")
     match action:
         case "e":
             inp = input("bits: ")
